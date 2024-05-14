@@ -42,8 +42,8 @@ EV market size is expected to expand considerably. The increase in the EV regist
 Overall, A promising Future for the EV industry, indicating a shift in consumer preferences to EV Vehicles and a potential increase in the related investment and buisness opportunities.
 
 ## Goals Achieved from this Project :
-Assessd the historical growth trend of EV registrations.
-Forecasted future EV registrations based on historical trends.
-Analyzed the distribution of EV registrations across different models, makes, and geographical regions.
-Estimated the market size and growth potential of the EV market for upcoming years.
-Provided insights to support stakeholders in decision-making processes related to production, infrastructure planning, and policy formulation.
+i. Assessd the historical growth trend of EV registrations.
+ii. Forecasted future EV registrations based on historical trends.
+iii. Analyzed the distribution of EV registrations across different models, makes, and geographical regions.
+iv. Estimated the market size and growth potential of the EV market for upcoming years.
+v. Provided insights to support stakeholders in decision-making processes related to production, infrastructure planning, and policy formulation.
